@@ -1,0 +1,10 @@
+# PDF to Markdown Converter - Dependencies
+
+# Core PDF processing
+PyMuPDF>=1.23.0
+
+# Web UI
+gradio>=4.0.0
+
+# Optional: Better image handling
+Pillow>=10.0.0
